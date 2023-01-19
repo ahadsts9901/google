@@ -1,0 +1,9 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.search{
+    height: 25px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
